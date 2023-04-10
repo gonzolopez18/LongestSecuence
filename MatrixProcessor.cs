@@ -17,7 +17,7 @@ class MatrixProcessor {
             string ln;
 
             while ((ln = file.ReadLine()) != null) {
-                fileContent.Add(ln);
+                fileContent.Add(ln.Replace(",", ""));
                 counter++;
             }
             file.Close();
