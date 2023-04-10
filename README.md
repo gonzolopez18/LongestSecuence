@@ -9,11 +9,11 @@ abee
 rere
 emer
 
-##Requisitos
+## Requisitos
 - Framework .Net / Net Core instalado
 - Editor de código preferido
 
-##Ejecución local
+## Ejecución local
 - Abrir el proyecto con el editor de código
 - Cargar en el archivo matrix.txt el contenido de la matriz a procesar. 
 - Ejecutar en la consola, desde la raíz del proyecto, el comando:
